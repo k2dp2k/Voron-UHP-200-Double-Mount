@@ -7,7 +7,7 @@ A simple adapter for the original PCB Din Mounts to use two Meanwell UHP-200 sid
 
 BOM:
 
-4x M2 self Tapping Screw
+4x M2 self tapping Screw
 
 4x M3x8 Screw
 
