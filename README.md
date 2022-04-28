@@ -1,6 +1,8 @@
 # Voron-UHP-200-Double-Mount
 Mount for two Meanwell UHP-200 eg. 24V &amp; 48V to save room
 
+Both PSU´s will take the same room as the "standart" RSP-200-24
+
 A simple adapter for the original PCB Din Mounts to use two Meanwell UHP-200 side by side.
 
 BOM:
