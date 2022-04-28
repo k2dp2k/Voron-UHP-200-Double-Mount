@@ -4,7 +4,9 @@ Mount for two Meanwell UHP-200 eg. 24V &amp; 48V to save room
 A simple adapter for the original PCB Din Mounts to use two Meanwell UHP-200 side by side.
 
 BOM:
+
 4x M2 self Tapping Screw
+
 4x M3x8 Screw
 
 
